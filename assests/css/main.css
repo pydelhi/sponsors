@@ -1,0 +1,7 @@
+body {
+  background-color: #f1f1f1;
+}
+
+a, a:link, a:hover, a:active {
+	text-decoration: none;
+}

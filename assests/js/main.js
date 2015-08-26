@@ -1,0 +1,1 @@
+var pyDelhiSponsorsApp = angular.module('pyDelhiSponsorsApp', []);
